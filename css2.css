@@ -1,0 +1,63 @@
+@media screen and (max-width: 1100px){
+
+
+
+.lamborgini-huracan{
+background-color: #33d7ff;
+
+border: 4px solid black;
+border-radius: 120px;
+transition-duration:2s;
+margin: auto;
+padding: 15px;
+}
+
+
+
+.ggg{
+border-radius: 120px;
+transition-duration: 2s;
+width: 400px;
+height: 300px;
+}
+
+
+}
+
+@media screen and (min-width: 1100px){
+
+
+.lamborgin{
+background-color:#33caff;
+width: 1000px;
+height: 3000px;
+border: 4px solid black;
+border-radius: 120px;
+transition-duration:6s;
+margin: auto;
+padding: 15px;
+}
+.lamborgin:active{
+background-color: orange;
+width: 1350px;
+height: 5000px;
+
+
+}
+
+.ggg{
+border-radius: 120px;
+transition-duration: 2s;
+width: 600px;
+height: 300px;
+}
+.ggg:hover{
+width: 1000px;
+}
+.gggg{
+width: 400px
+}
+.gg{
+text-align: center;
+}
+}

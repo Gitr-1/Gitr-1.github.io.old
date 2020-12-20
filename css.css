@@ -1,0 +1,107 @@
+
+.g{
+color: yellow;
+}
+.h{
+color: green;
+
+}
+.k{
+	color: pink;
+}
+.j{
+color: purple;
+}
+.v{
+color: blue;
+}
+.y{
+color: cyan;
+
+}
+.i{
+	color: orange;
+}
+.p{
+color: red;
+}
+.l{
+color: grey;
+}
+.gg{
+text-align: center;
+}
+
+
+.jj{
+
+}
+@media screen and (max-width: 1100px){
+
+
+
+.lamborgini-huracan{
+background-color: #33d7ff;
+
+border: 4px solid black;
+border-radius: 120px;
+transition-duration:2s;
+margin: auto;
+padding: 15px;
+}
+
+
+
+.ggg{
+border-radius: 120px;
+transition-duration: 2s;
+width: 400px;
+height: 300px;
+}
+
+
+}
+
+@media screen and (min-width: 1100px){
+
+
+.lamborgini-huracan{
+background-color: #33d7ff;
+width: 1000px;
+height: 4000px;
+border: 4px solid black;
+border-radius: 120px;
+transition-duration:2s;
+margin: auto;
+padding: 15px;
+}
+.lamborgini-huracan:active{
+background-color: orange;
+width: 1350px;
+height: 5000px;
+
+
+}
+
+.ggg{
+border-radius: 120px;
+transition-duration: 2s;
+width: 600px;
+height: 300px;
+
+}
+.ggg:hover{
+width: 1000px;
+}
+.gggg{
+color: lime;
+width: 100px;
+height: 200px;
+transition-duration: 2s;
+}
+.gggg:hover{
+width: 400px;
+height: 200px;
+
+}
+}
